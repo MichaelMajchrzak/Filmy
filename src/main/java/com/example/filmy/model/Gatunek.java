@@ -1,6 +1,5 @@
 package com.example.filmy.model;
 
-package com.example.filmy.model;
 
 import jakarta.persistence.*;
 
