@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FilmyApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(FilmyApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(FilmyApplication.class, args);
+    }
 
 }
